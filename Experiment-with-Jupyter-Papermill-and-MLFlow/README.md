@@ -1,4 +1,4 @@
-# papermill-mlflow
+# Experiment-with-Jupyter-Papermill-and-MLFlow
 Simple data science experimentation with `jupyter`, `papermill`, and `mlflow`
 
 ---
@@ -8,12 +8,12 @@ Simple data science experimentation with `jupyter`, `papermill`, and `mlflow`
 - Clone this repo
 
 ```
-git clone git@github.com:shadab-entrepreneur/Tech-Talks/papermill-mlflow.git
+git clone git@github.com:shadab-entrepreneur/Tech-Talks.git
 ```
 - Set up virtualenv
 
 ```
-cd papermill-mlflow
+cd Tech-Talks/Experiment-with-Jupyter-Papermill-and-MLFlow
 
 # Create virtualenv based on requirements.txt
 python3 -m venv venv
