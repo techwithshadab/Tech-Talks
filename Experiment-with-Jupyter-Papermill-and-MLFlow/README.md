@@ -33,7 +33,7 @@ jupyter notebook
 
 - Run the cells in `papermill.ipynb`
 
-![image of runner notebook](https://raw.githubusercontent.com/shadab-entrepreneur/Tech-Talks/Experiment with Jupyter, Papermill, and MLFlow/assets/papermill.png)
+![image of runner notebook](https://raw.githubusercontent.com/shadab-entrepreneur/Tech-Talks/Experiment-with-Jupyter-Papermill-and-MLFlow/assets/papermill.png)
 
 - Start MLflow (in another terminal)
 
@@ -52,4 +52,4 @@ mlflow server
 - Access the MLflow UI opening this in a browser: [http://127.0.0.1:5000](http://127.0.0.1:5000/#/experiments/1)
     - Navigate to "indices" in the experiment tab if necessary
 
-![image of mlflow](https://raw.githubusercontent.com/shadab-entrepreneur/Tech-Talks/Experiment with Jupyter, Papermill, and MLFlow/assets/mlflow.png)
+![image of mlflow](https://raw.githubusercontent.com/shadab-entrepreneur/Tech-Talks/Experiment-with-Jupyter-Papermill-and-MLFlow/assets/mlflow.png)
