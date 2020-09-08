@@ -50,6 +50,6 @@ mlflow server
 ```
 
 - Access the MLflow UI opening this in a browser: [http://127.0.0.1:5000](http://127.0.0.1:5000/#/experiments/1)
-    - Navigate to "indices" in the experiment tab if necessary
+    - Navigate to "stock_up_down" in the experiment tab if necessary
 
 ![image of mlflow](https://github.com/shadab-entrepreneur/Tech-Talks/blob/master/Experiment-with-Jupyter-Papermill-and-MLFlow/assets/mlflow.png)
