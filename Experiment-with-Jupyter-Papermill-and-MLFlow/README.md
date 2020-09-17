@@ -1,7 +1,7 @@
 # Experiment-with-Jupyter-Papermill-and-MLFlow
 Simple data science experimentation with `jupyter`, `papermill`, and `mlflow`
 
-### Slides [Experiment with Jupyter, Papermill, and MLFlow](https://speakerdeck.com/shadab96/experimentation-with-jupyter-papermill-and-mlflow)
+### Slides- [Experiment with Jupyter, Papermill, and MLFlow](https://speakerdeck.com/shadab96/experimentation-with-jupyter-papermill-and-mlflow)
 
 ---
 
