@@ -1,6 +1,10 @@
 # Experiment-with-Jupyter-Papermill-and-MLFlow
 Simple data science experimentation with `jupyter`, `papermill`, and `mlflow`
 
+Machine Learning and AI are changing or would say have changed the way how businesses used to behave. However, the Data Science community is still lacking good practices for organizing their projects and effectively collaborating and experimenting quickly to reduce “time to market”.
+
+During this session, we will learn about such open-source tools like “papermill” and “mlflow” which can help you in helping ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, metrics as well as code
+
 ### Slides- [Experiment with Jupyter, Papermill, and MLFlow](https://speakerdeck.com/shadab96/experimentation-with-jupyter-papermill-and-mlflow)
 
 ---
